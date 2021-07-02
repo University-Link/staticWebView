@@ -34,6 +34,9 @@ body{
     line-height: inherit;
     text-decoration: none;
 }
+.section_img-holder{
+    max-width: 1080px;
+}
 
 @media screen and (max-width: 767px) { 
     .event-button{
